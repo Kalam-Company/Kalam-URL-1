@@ -47,7 +47,7 @@ Plan name: Free Cloned User
 Expires on: 31/12/2020"""
     HELP_USER = """Hai, I am URL Uploader bot..
     
-1. Send url (Link|New Name with Extension).
+1. Send url (Link | New Name of that file with Extension).
 2. Send Custom Thumbnail (Optional).
 3. Select the button.
    SVideo - Give File as video with Screenshots
@@ -57,7 +57,7 @@ Expires on: 31/12/2020"""
    
 --------
 
-Send /me to know current plan details
+Send /me to know your current plan details...
 
 Developed by © @Kalam_Company"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
