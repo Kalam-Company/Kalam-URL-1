@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Welcome my Friend,
-I am Telegram URL Uploader Bot!!!
+I am Telegram URL Uploader Bot with Custom Thumbnail support!!!
 
 <b>Please send me any direct download URL Link, I can upload to telegram as File/Video</b>
 
@@ -14,22 +14,22 @@ I am Telegram URL Uploader Bot!!!
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
-    DOWNLOAD_START = "Downloading to my Server"
-    UPLOAD_START = "Uploading... Started"
+    DOWNLOAD_START = "🔰 DownloadiNg... to my Server 📥"
+    UPLOAD_START = "📤 UploadiNg... to Telegram 📤"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me, if you find me useful. Join : @Kalam_Company"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nJoin : @Kalam_Company \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription..."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact @Kalam_Company"
-    SAVED_CUSTOM_THUMB_NAIL = """✅ Custom Permanent Thumbnail saved. This image will be used in your future video / file
+    SAVED_CUSTOM_THUMB_NAIL = """✅ Custom Permanent 🖼 Thumbnail saved. This image will be used in your future video / file
 
-<b>/deletethumbnail to Delete the this Thumbnail</b>"""
+<b>/deletethumbnail to Delete this Thumbnail</b>"""
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared Successfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
     CUSTOM_CAPTION_UL_FILE = "@Kalam_url_Bot"
-    NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
+    NO_CUSTOM_THUMB_NAIL_FOUND = "❌️ No, Custom ThumbNail found."
     NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
@@ -50,6 +50,9 @@ Expires on: 31/12/2020"""
 --------
 
 Send /me to know current plan details
+
+Subscribe our official Music channel 👇👇👇
+https://www.youtube.com/channel/UC1dgbRIE-X1viE8nG_3006w
 
 Developed by © @Kalam_Company"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
@@ -74,7 +77,7 @@ Developed by © @Kalam_Company"""
     EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to @Kalam_Company"
     EXTRACT_ZIP_STEP_TWO = """Select file_name to upload from the below options.
 You can use /rename command after receiving file to rename it with custom thumbnail support."""
-    CANCEL_STR = "❌ Process Cancelled ❌"
+    CANCEL_STR = "❌ Process Cancelled."
     ZIP_UPLOADED_STR = "Uploaded {} files in {} seconds"
     FREE_USER_LIMIT_Q_SZE = """Cannot Process.
 Free users only 1 request per 30 minutes.
