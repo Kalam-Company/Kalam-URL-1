@@ -8,9 +8,15 @@ I am Telegram URL Uploader Bot with Custom Thumbnail support!!!
 
 <b>Developer : © @Kalam_Company</b>"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
-    ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "Join to © @Kalam_Company for upgrade your plan"
-    FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
+    ABS_TEXT = "To succeed in your mission, you must have a single-minded devotion to your goal."
+    UPGRADE_TEXT = "Join to my Developer channel © @Kalam_Company for upgrade your plan...  /help for more Details"
+    FORMAT_SELECTION = """Please Select the Desired Format 👇👇👇
+   SVideo - Give File as video with Screenshots
+   DFile  - Give File with Screenshots
+   Video  - Give File as video without Screenshots
+   DFile  - Give File without Screenshots 
+
+<b>If you want to Set custom Thumbnail, Send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail.</b>"""
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
