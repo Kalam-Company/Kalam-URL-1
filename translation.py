@@ -51,10 +51,9 @@ Expires on: 31/12/2020"""
 
 Send /me to know current plan details
 
-Subscribe our official Music channel 👇👇👇
-https://www.youtube.com/channel/UC1dgbRIE-X1viE8nG_3006w
+<a href="https://www.youtube.com/channel/UC1dgbRIE-X1viE8nG_3006w">Subscribe our official Music Channel</a>
 
-Developed by © @Kalam_Company"""
+<b>Developed by © @Kalam_Company</b>"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
