@@ -20,12 +20,13 @@ I am Telegram URL Uploader Bot with Custom Thumbnail support!!!
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
-    DOWNLOAD_START = "🔰 DownloadiNg... to my Server 📥"
-    UPLOAD_START = "📤 UploadiNg... to Telegram 📤"
+    DOWNLOAD_START = "🔰 DownloadiNg... to my Server ⬇️"
+    UPLOAD_START = "⬆️ UploadiNg... to Telegram 📤 \n\n<b>🔄Processing:-</b>"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me, if you find me useful. Join : @Kalam_Company"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nJoin : @Kalam_Company \nUploaded in {} seconds."
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds \nUploaded in {} seconds \n\n Sorry, For Delay of Upload 😅"
+    AFTER_SUCCESSFUL_CANCEL_MSG_WITH_TS = "❌️ Process Cancelled ❌️"
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription..."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact @Kalam_Company"
     SAVED_CUSTOM_THUMB_NAIL = """✅ Custom Permanent 🖼 Thumbnail saved. This image will be used in your future video / file
@@ -88,3 +89,4 @@ You can use /rename command after receiving file to rename it with custom thumbn
 Free users only 1 request per 30 minutes.
 /upgrade or Try 1800 seconds later."""
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file.  Please send me a fastest URL so that I can upload to Telegram, without me slowing down for other users."
+    ABOUT_TEXT = "Hii, Sexy"
