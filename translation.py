@@ -1,6 +1,6 @@
 class Translation(object):
-    START_TEXT = """Welcome my Friend,
-     I'm A Simple But POWERFUL You Tube URL Uploader Bot With Permanent Thumbnail Support💯.
+    START_TEXT = """Welcome,
+         I'm A Simple but POWERFUL You Tube URL Uploader Bot With Permanent Thumbnail Support 💯...
 
 <b>Please send me a You Tube video Link (or) Directly, Share me a Video from You Tube, I can upload to telegram as File/Video</b>
 
