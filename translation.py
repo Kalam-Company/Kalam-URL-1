@@ -1,8 +1,10 @@
 class Translation(object):
-    START_TEXT = """Welcome my Friend,
-     I am Telegram URL Uploader Bot with Custom Thumbnail support!!!
+    START_TEXT = """🙏Welcome my Friend🙏,
+     I'm A Simple But POWERFUL You Tube URL Uploader Bot With Permanent Thumbnail Support💯.
 
-<b>Please send me any direct download URL Link, I can upload to telegram as File/Video</b>
+<b>Please send me a You Tube video Link (or) Directly, Share me a Video from You Tube, I can upload to telegram as File/Video</b>
+
+👉 <b><a href="https://t.me/Kalam_url_Bot">My God Father can do lot of Things more than Me...</a></b> 👈
 
 /help for more details about me...
 
@@ -18,7 +20,7 @@ class Translation(object):
    📁 FILE   - Send as File format without Screenshots
 
 <b>If, You want to Set custom Thumbnail, Send photo before or quickly after tapping on any of the below buttons.\n\nYou can use /deletethumbnail to delete the auto-generated thumbnail.</b>"""
-    SET_CUSTOM_USERNAME_PASSWORD = "\n *Thank For UsiNg Me*"
+    SET_CUSTOM_USERNAME_PASSWORD = "\n *Thank you For UsiNg Me*"
     NOYES_URL = "@robot URL detected. Please send me a fastest URL so that I can upload to Telegram, without slowing down for other users."
     DOWNLOAD_START = "🔰 DownloadiNg... to my Server ⬇️"
     UPLOAD_START = "⬆️ UploadiNg... to Telegram 📤 \n\n<b>🔄Processing:-</b>"
