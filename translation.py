@@ -4,7 +4,7 @@ class Translation(object):
 
 <b>Please send me a You Tube video Link (or) Directly, Share me a Video from You Tube, I can upload to telegram as File/Video</b>
 
-👉 <b><a href="https://t.me/Kalam_url_Bot">My God Father can do lot of Things more than Me...</a></b> 👈
+👉 <a href="https://t.me/Kalam_url_Bot">My God Father can do lot of Things more than Me...</a> 👈
 
 /help for more details about me...
 
