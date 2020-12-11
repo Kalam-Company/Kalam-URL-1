@@ -323,7 +323,7 @@ async def youtube_dl_call_back(bot, update):
             media_album_p = []
             if images is not None:
                 i = 0
-                caption = "<a href="https://t.me/Kalam_Company">👆 📸Screenshots📸 👆</a> "
+                caption = "Screenshots"
                 if is_w_f:
                     caption = "I'm Free to use to my channel members only...."
                 for image in images:
