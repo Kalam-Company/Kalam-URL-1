@@ -27,7 +27,7 @@ class Translation(object):
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me, if you find me useful. Join : @Kalam_Company"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds \nUploaded in {} seconds \n\n Sorry, For Delay of Upload 😅"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "<b>Downloaded in {} seconds \nUploaded in {} seconds</b> \n\nTo succeed in your mission, you must have a single-minded devotion to your goal \n\n🥺Sorry, For the Delay of Upload 😅"
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription..."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact @Kalam_Company"
     SAVED_CUSTOM_THUMB_NAIL = """✅ Custom Permanent 🖼 Thumbnail saved. This image will be used in your future video / file
@@ -46,7 +46,7 @@ Telegram ID: <code>{}</code>
 Plan name: Free Cloned User
 Expires on: 01.06.2021
 
-<b>📝Note: It's Completely Free for my Channel members Only</b>"""
+<b>📝Note: It's Completely Free for my Channel members Only...</b>"""
     HELP_USER = """Hai, I am URL Uploader bot...
     
 <b>It's not very Complicated to Use Me!!! 😅
