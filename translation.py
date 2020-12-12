@@ -24,23 +24,23 @@ Directly, Share me a Video from You Tube, I can upload to telegram as File/Video
 <b>If, You want to Set custom Thumbnail, Send photo before or quickly after tapping on any of the below buttons.\n\nYou can use /deletethumbnail to delete the auto-generated thumbnail.</b>"""
     SET_CUSTOM_USERNAME_PASSWORD = "\n 🙏*Thank you For UsiNg Me*🙏"
     NOYES_URL = "@robot URL detected. Please send me a fastest URL so that I can upload to Telegram, without slowing down for other users."
-    DOWNLOAD_START = "⬇️ DownloadiNg... Please wait 🔰"
+    DOWNLOAD_START = "⬇️ DownloadiNg... File 📁"
     UPLOAD_START = "⬆️ UploadiNg... to Telegram 📤 \n\n<b>🔄 Processing:-</b>"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me, if you find me useful. Join : @Kalam_Company"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "<b>Downloaded in {} seconds \nUploaded in {} seconds</b> \n\n'To Succeed in your mission, You must have a single-minded devotion to your Goal' \n -<code>Dr.A.P.J Abdul Kalam</code>  \n\n😅 Sorry, For the Delay of Upload 🥺"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "<b>Downloaded in {} seconds \nUploaded in {} seconds</b> \n\n'To Succeed in your mission, You must have a single-minded devotion to your Goal' \n - <a href="https://g.co/kgs/138tVC">Dr. A.P.J. Abdul Kalam</a> \n\n😅 Sorry, For the Delay of Upload 🥺"
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription..."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact @Kalam_Company"
-    SAVED_CUSTOM_THUMB_NAIL = """✅ Custom Permanent Thumbnail saved. This Image will be used in your Future video / file
+    SAVED_CUSTOM_THUMB_NAIL = """✅ Custom Permanent Thumbnail saved.\n 🖼 This Image will be used in your Future video / file
 
 <b>/deletethumbnail to Delete this Thumbnail</b>"""
-    DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom Thumbnail Deleted Successfully. \nSend another Image to set as Thumbnail"
+    DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom Thumbnail Deleted Successfully. \n\nSend another Image to set as Thumbnail"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully"
     CUSTOM_CAPTION_UL_FILE = "@Kalam_url_Bot"
     NO_CUSTOM_THUMB_NAIL_FOUND = "❌️ No, Custom ThumbNail found."
-    NO_VOID_FORMAT_FOUND = "❌️ ERROR...\n {} \n\n<b>Please check & Try again (OR) Send another link but that link must contain any media</b>"
+    NO_VOID_FORMAT_FOUND = "❌️ ERROR...Couldn't Download the File ❌️ \n\n {} \n\n<b>Please check & Try again (OR) Send another link but that link must contain any media</b>"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
