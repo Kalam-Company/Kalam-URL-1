@@ -2,11 +2,9 @@ class Translation(object):
     START_TEXT = """Welcome,
          I'm A Simple but POWERFUL You Tube URL Uploader Bot With Permanent Thumbnail Support 💯...
 
-<b>Please send me a You Tube video Link 
-                 (OR) 
-Directly, Share me a Video from You Tube, I can upload to telegram as File/Video...</b>
+<b>Please send me a You Tube video Link, I can upload to telegram as File/Video...</b>
 
-👉 <a href="https://t.me/Kalam_url_Bot">My God Father can do lot of Things more than Me...</a> 💯
+👉 <a href="https://t.me/kalam_url_bot">My God Father can do lot of Things more than Me...</a> 💯
 
 /help for more details about me...
 
