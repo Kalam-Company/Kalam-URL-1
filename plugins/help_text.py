@@ -65,7 +65,7 @@ async def start(bot, update):
     TRChatBase(update.from_user.id, update.text, "/start")
     await bot.send_message(
         chat_id=update.chat.id,
-        text=plugins.start,
+        text=Plugins.start,
         reply_to_message_id=update.message_id
     )
 
