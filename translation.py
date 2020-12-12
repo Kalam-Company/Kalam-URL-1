@@ -59,7 +59,7 @@ Follow Steps... 👇👇👇</b>
 ⛳️ Send your Custom Thumbnail (Optional)
 ⛳️ Select any one Forward 👇
    SVIDEO - Send as Streaming Video format with Screenshots
-   VIDEO  - Send as Stream format without Screenshots
+   VIDEO  - Send as Streaming Video format without Screenshots
    SFILE  - Send as File format with Screenshots
    FILE   - Send as File format without Screenshots
    
